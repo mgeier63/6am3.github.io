@@ -1,0 +1,16 @@
+
+	
+	<h2><a name="game1"/>Children's Game</h2>
+	<p>The goal of this game is to fill the holes in the Scorecard (bottom left) with fruits according to the indicated color of every hole. The player who first completes his Scorecard wins.\n\nTo take a turn, a player drops fruits from the tray (top left) one by one into the board. When one or more fruits fall down to the bottom of the board, the player can place them into the matching holes of his Scorecard – after  that it’s the next players turn.</p>
+	
+	<h2>Children's Game X</h2>
+	<p>The rules of this game match the <a href="#game1">“Children\'s Game”</a>; except that the Scorecard now has to be filled directionally, from the top to the bottom.</p>
+	
+	<h2><a name="game3"/>Standard Game</h2>
+	<p>The goal of this game is to fill the holes in the Scorecard (bottom left) with fruits according to the indicated color of every hole.\n\nTo take a turn, a player drops fruits from the tray (top left) one by one into the board, until one or more fruits fall down to the bottom of the board. An exception is the very first turn of the first player. In this turn a maximum of five fruits may be dropped in to the board. After that its the next players turn, even if no fruits fall down.\n\nOf the fruits that fall down, the player may place them into matching holes on his Scorecard, but he has to keep the remaining ones which must be used in his next turns.\n\nThe player who first completes his Scorecard and has no remaining fruits in his hand wins. I.e. if a player has already completed his Scorecard but still has remaining fruits,  he will only win in a subsequent turn where he can manage to drop all his fruit into the board without any fruit falling down to the bottom of the board.</p>
+	
+	<h2>Standard Game X</h2>
+	<p>The rules of this game match the  <a href="#game3">“Standard Game”</a>; except that the Scorecard now has to be filled directionally, from the top to the bottom.</p>
+	
+	<h2>Expert Game X</h2>
+	<p>In this game there are no Scorecards and the colors of the fruits do not matter. The goal of this game is to get rid of ones fruit by dropping them into the board. The first player starts with 11 fruits, all other players initially get 7 fruits. Every player now makes a turn by dropping fruits one by one into the board, until either there are no fruits left in the players tray – he has won or one or more fruits are dropping out to the bottom of the board. In this case these fruits are placed back into the players tray and its the next players turn.</p>
